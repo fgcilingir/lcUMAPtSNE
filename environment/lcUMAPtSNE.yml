@@ -4,13 +4,14 @@ channels:
   - bioconda
   - defaults
 dependencies:
-  - umap-learn
+  - seaborn
+  - ipywidgets
   - ipykernel
   - notebook
   - nb_conda_kernels
+  - umap-learn
+  - bokeh
+  - plotly
   - jupyterlab
   - matplotlib
-  - ipywidgets
-  - bokeh
-  - seaborn
-  - plotly
+  - kneed
