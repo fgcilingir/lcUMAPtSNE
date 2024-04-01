@@ -1,0 +1,16 @@
+name: lcUMAPtSNE
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - umap-learn
+  - ipykernel
+  - notebook
+  - nb_conda_kernels
+  - jupyterlab
+  - matplotlib
+  - ipywidgets
+  - bokeh
+  - seaborn
+  - plotly
