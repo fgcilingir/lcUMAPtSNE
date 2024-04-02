@@ -18,7 +18,7 @@
     
 Getting Started
 ===========================================
-This repository includes the input files and code used in Çilingir et al. (n.d) Additionally, you'll find a tutorial on using genotype likelihoods in non-linear dimensionality reduction techniques for analyzing population genetic structure. If you find the tutorial helpful, please cite our paper as indicated in the [Citation](#Citation) section below.
+This repository includes the input files and code used in [Çilingir et al. (2024)](https://biorxiv.org/cgi/content/short/2024.04.01.587545v1) Additionally, you'll find a tutorial on using genotype likelihoods in non-linear dimensionality reduction techniques for analyzing population genetic structure. If you find the tutorial helpful, please cite our paper as indicated in the [Citation](#Citation) section below.
 
 Installing Jupyter Notebook
 ------------------------
@@ -293,4 +293,4 @@ If you prefer not to use PCA, you can produce a distance matrix with [ngsDist](h
 Citation
 ===========================================
 
-Çilingir, F.G., Uzel, K., Grossen, C. (2024) Genotype likelihoods incorporated in non-linear dimensionality reduction techniques infer fine-scale population genetic structure. _bioRxiv_ #DOI
+Çilingir, F.G., Uzel, K., Grossen, C. (2024) Genotype likelihoods incorporated in non-linear dimensionality reduction techniques infer fine-scale population genetic structure. _bioRxiv_, [https://biorxiv.org/cgi/content/short/2024.04.01.587545v1](https://biorxiv.org/cgi/content/short/2024.04.01.587545v1).
