@@ -18,7 +18,7 @@
     
 Getting Started
 ===========================================
-This repository includes the input files and code used in [Uzel et al. (2025)](https://doi.org/10.1101/2024.04.01.587545) Additionally, you'll find a tutorial on using genotype likelihoods in non-linear dimensionality reduction techniques for analyzing population genetic structure. If you find the tutorial helpful, please cite our paper as indicated in the [Citation](#Citation) section below.
+
 
 Installing Jupyter Notebook
 ------------------------
@@ -41,7 +41,7 @@ Tutorial
 Generating Input Files
 ------------------------
 ### Estimation of Genotype Likelihoods
-In this tutorial, we will use SO_2x dataset mentioned in Çilingir et al. (n.d.) and explain related analysis steps for a single input file. 
+In this tutorial, we will use SO_2x dataset mentioned in Uzel et al. (n.d.) and explain related analysis steps for a single input file. 
 
 In our study, we used the raw data of [Humble et al. (2023)](https://www.pnas.org/doi/full/10.1073/pnas.2210756120) and mirrored their genotype-likelihood estimation and PCA.
 
@@ -292,5 +292,3 @@ If you prefer not to use PCA, you can produce a distance matrix with [ngsDist](h
 
 Citation
 ===========================================
-
-Uzel, K., Grossen, C., Çilingir, F.G. (2025) lcUMAPtSNE: Use of non-linear dimensionality reduction techniques with genotype likelihoods. _bioRxiv_, [https://doi.org/10.1101/2024.04.01.587545](https://doi.org/10.1101/2024.04.01.587545).
